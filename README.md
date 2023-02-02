@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**shasthecoder/shasthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer based in Dublin, Ireland
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on react, reactnative and angular.
+- 🌱 I’m currently learning Jenkins.
+- 🎡 I’m having good experience in Microsoft Power Platform and Modern Workplace Development (M365).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to get in touch:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tshastri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tshastri" height="30" width="40" /></a>
+</p>
